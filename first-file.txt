@@ -1,2 +1,2 @@
 ssafy 9기
-new-feature
+awesome-feature
